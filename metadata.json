@@ -1,0 +1,6 @@
+{
+  "name": "StatementOCR - Bank Statement to CSV",
+  "description": "Convert PDF and image bank statements into clean CSV data using Gemini Vision OCR with auto-categorization and balance reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
